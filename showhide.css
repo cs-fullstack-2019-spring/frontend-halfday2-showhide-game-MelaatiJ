@@ -1,7 +1,7 @@
-table {
+.jumbotron {
     /* Use whatever background image (or images) you like */
-    background: url("forest-background.jpg") no-repeat;
-    table-layout: fixed;
+    background: url("canvas.jpg" ) no-repeat;
+    /*table-layout: fixed;*/
 }
 
 /* Set each td size */
@@ -9,3 +9,9 @@ td {
     width: 100px;
     height: 100px;
 }
+
+table
+{
+    border:1px solid red;
+}
+

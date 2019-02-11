@@ -1,6 +1,7 @@
-# JavaScript Show/Hide Game
+-8# JavaScript Show/Hide Game
 
 Take this simple show/hide game and make it your own.
+    targets = numberOfTargets;
 
 The starter project provides a simple example that displays a specified number of targets for the specified time (in ms).
 
@@ -27,3 +28,4 @@ Some Ideas:
 
 
 
+i changed hte background and targets

@@ -74,7 +74,7 @@ function setUpTargetsAndPlay(numberOfTargets, displayTimeMs) {
         let imgID = "img" + targetNum;
 
         // Set an IMG for each randomly selected cell along with 'click' event handler
-        $('#' + tdID).append("<img id = " + imgID + " class= 'targetImg' src='bird.png'>");
+        $('#' + tdID).append("<img id = " + imgID + " class= 'targetImg' src='splatter.png'>");
         $('#' + imgID).delay(2000).show(0); // Wait 2 seconds then show the targets
         $('#' + imgID).delay(displayTimeMs).hide(0); // Setup a callback that will hide the images after the specified time
         $('#' + tdID).on("click", clickedTarget);
