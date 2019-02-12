@@ -1,3 +1,6 @@
+### POINTS: 1
+### KEY: Great start
+
 -8# JavaScript Show/Hide Game
 
 Take this simple show/hide game and make it your own.
